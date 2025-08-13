@@ -1,0 +1,10 @@
+{
+    "Cosmetics" : [{"ItemName": "Sunscreen", "ItemCount": 4}, 
+                    {"ItemName": "Blender", "ItemCount": 8},
+                    {"ItemName": "Brush", "ItemCount": 3},
+                    {"ItemName": "Face Wash", "ItemCount": 6},
+                    {"ItemName": "Moisturizer", "ItemCount": 5}],
+    "Stationery" : ["Pen", "Pencil", "Copy"],
+    "Clothing" : ["Pants", "Shirts", "Tshirts", "Jacket", "Shoes"],
+    "Toys" : ["Bike", "Car", "Helicopter", "Truck", "Bus"]
+}
