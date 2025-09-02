@@ -1,0 +1,71 @@
+{
+    "categories": {
+        "Stationery Items": {
+            "Pen": {
+                "quantity": 50,
+                "price": 1.5
+            },
+            "Pencil": {
+                "quantity": 28,
+                "price": 1.0
+            },
+            "Notebook": {
+                "quantity": 20,
+                "price": 5.0
+            },
+            "Eraser": {
+                "quantity": 25,
+                "price": 0.75
+            }
+        },
+        "Office Supplies": {
+            "Paper Clips": {
+                "quantity": 100,
+                "price": 0.1
+            },
+            "Stapler": {
+                "quantity": 5,
+                "price": 15.0
+            },
+            "Paper": {
+                "quantity": 200,
+                "price": 0.05
+            },
+            "Folders": {
+                "quantity": 15,
+                "price": 2.5
+            }
+        },
+        "Electronics": {
+            "Mouse": {
+                "quantity": 10,
+                "price": 25.0
+            },
+            "Keyboard": {
+                "quantity": 8,
+                "price": 45.0
+            },
+            "USB Cable": {
+                "quantity": 20,
+                "price": 10.0
+            },
+            "Monitor": {
+                "quantity": 3,
+                "price": 200.0
+            }
+        }
+    },
+    "transactions": [
+        {
+            "user": "jensih",
+            "action": "removed",
+            "category": "Stationery Items",
+            "item": "Pencil",
+            "quantity": 2,
+            "remaining_quantity": 28,
+            "Price": 1.0,
+            "total_value": 2.0
+        }
+    ],
+    "low_stock_threshold": 10
+}
